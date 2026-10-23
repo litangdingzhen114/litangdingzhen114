@@ -16,6 +16,7 @@
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge)
 ![Cursor](https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge)
+![Grokbot](https://img.shields.io/badge/Grokbot-000000?style=for-the-badge)
 ![Muse Code](https://img.shields.io/badge/Muse%20Code-0081FB?style=for-the-badge&logo=meta&logoColor=white)
 
 </div>
