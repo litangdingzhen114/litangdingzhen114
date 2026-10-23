@@ -2,7 +2,7 @@
 
 <img src="dance.gif" width="100%" alt="dancing" />
 
-# Hi, I'm sunmaosun 👋
+# Hello, I'm sunmaosun 👋
 
 </div>
 
