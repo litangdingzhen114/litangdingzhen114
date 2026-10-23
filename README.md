@@ -6,10 +6,16 @@
 
 </div>
 
-## 🛠 Tech Stack
+## 🤖 Agent Crew
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HarmonyOS](https://img.shields.io/badge/HarmonyOS-000000?style=for-the-badge&logo=huawei&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FPGA-blue?style=for-the-badge)
+<div align="center">
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge)
+![Cursor](https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge)
+![Muse Code](https://img.shields.io/badge/Muse%20Code-0081FB?style=for-the-badge&logo=meta&logoColor=white)
+
+</div>
