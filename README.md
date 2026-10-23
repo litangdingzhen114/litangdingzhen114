@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="dance.gif" width="300" alt="dancing" />
+<img src="dance.gif" width="100%" alt="dancing" />
 
 # Hi, I'm sunmaosun 👋
 
